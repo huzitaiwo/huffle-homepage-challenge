@@ -363,6 +363,11 @@ button.btn {
     cursor: pointer;
   }
 
+ .heading {
+    font-size: 2.5rem;
+    line-height: 1.3;
+ } 
+
   .creation__content-grid {
     grid-template-columns: 1fr;
   }
