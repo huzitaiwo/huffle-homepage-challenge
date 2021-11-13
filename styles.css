@@ -407,11 +407,16 @@ button.btn {
     padding: 15px;
   }
 
+  .nav-action {
+    flex-direction:column;
+  }
+
   .nav-action button {
     color: #fff;
     background: #61b287;
     border: none;
   }
+
   .hamburger {
     display: initial;
     margin-left: 30px;
