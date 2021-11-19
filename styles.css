@@ -116,7 +116,7 @@ div.introduction {
 }
 
 .introduction__content-action button {
-  padding: 8px 25px;
+  padding: 8px 18px;
   text-transform: uppercase;
   font-weight: 500;
   border-radius: 8px;
@@ -414,6 +414,7 @@ button.btn {
     background: #61b287;
     border: none;
   }
+
   .hamburger {
     display: initial;
     margin-left: 30px;
